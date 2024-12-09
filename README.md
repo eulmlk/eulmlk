@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Eyouel Melkamu 👋
 
-<!--
-**eulmlk/eulmlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate backend developer with expertise in Go, ASP.NET, and Node.js (Express). I love to work on AI-driven solutions, competitive programming, and developing modular and scalable applications. Always learning and sharing knowledge on data structures, algorithms, and software engineering principles. Let's collaborate and create something amazing!
 
-Here are some ideas to get you started:
+## My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eulmlk&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eulmlk&layout=compact&theme=radical)
+
+## Social Media
+
+- [LinkedIn](https://www.linkedin.com/in/eulmelk)
+- [Leetcode](https://leetcode.com/u/eulmelk)
+- [Codeforces](https://codeforces.com/profile/eulmelk)
+
+## GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=eulmlk&theme=radical)
